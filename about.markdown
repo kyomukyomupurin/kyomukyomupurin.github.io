@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# :sparkles:自己紹介
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+年齢 : ?  
+職業 : ?
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# :sparkles:このサイトについて
 
+日記やその他の趣味の制作物の置き場として GitHub pages + jekyll でホームページを作った。面白いものを増やして充実させていきたい。
 
-[jekyll-organization]: https://github.com/jekyll
+# :sparkles:URL
+
+Coming soon...
